@@ -42,6 +42,7 @@ A professional presentation created for online business growth.
 
 ### 🔸 SEO vs GEO Research
 A comparative study explaining traditional SEO vs Generative Engine Optimization.
+##
 **Focus:** AI search visibility & content structure
 
 ---
