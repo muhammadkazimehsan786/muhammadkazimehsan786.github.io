@@ -35,12 +35,14 @@ A personal portfolio website hosted on GitHub Pages.
 
 ### 🔸 Marketing Strategy Presentation
 A professional presentation created for online business growth.
+##
 **Tools:** Canva, PowerPoint
+
 **Focus:** Branding, funnels, and AI-based strategies
 
 ### 🔸 SEO vs GEO Research
 A comparative study explaining traditional SEO vs Generative Engine Optimization.
-- Focus: AI search visibility & content structure
+**Focus:** AI search visibility & content structure
 
 ---
 
@@ -55,7 +57,7 @@ A comparative study explaining traditional SEO vs Generative Engine Optimization
 **Email:** kazimmuhammad500@gmail.com  
 **Fiverr:** https://www.fiverr.com/mkcreation422?public_mode=true  
 **LinkedIn:** https://www.linkedin.com/in/muhammad-kazim-ehsan-823294368/  
-**- GitHub:** https://github.com/muhammadkazimehsan786
+**GitHub:** https://github.com/muhammadkazimehsan786
 
 ---
 
